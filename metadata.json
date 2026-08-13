@@ -1,0 +1,6 @@
+{
+  "name": "MOVIELIST",
+  "description": "A modern, responsive movie streaming platform optimized for fast playback, trending titles, and social discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
